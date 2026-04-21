@@ -1,0 +1,9 @@
+{
+  "name": "mydevops",
+  "version": "1.0.0",
+  "description": "Sample Node.js project for GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  }
+}
