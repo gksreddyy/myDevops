@@ -35,8 +35,9 @@ jobs:
         with:
           node-version: '24'
 
+      - name: Show repo structure
+        run: ls -R
       - name: Install dependencies
-        working-directory: node-app
         run: npm install
 
       - name: Run tests
