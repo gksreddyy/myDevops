@@ -4,6 +4,7 @@
   "description": "Sample Node.js project for GitHub Actions",
   "main": "app.js",
   "scripts": {
+    "build": "echo \"Build step completed\"",
     "test": "echo \"No tests yet\""
   }
 }
