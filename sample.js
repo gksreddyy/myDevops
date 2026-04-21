@@ -1,7 +1,7 @@
 // hello.js
 
 function greet(name) {
-  return `Hello, ${name}!`;
+  return `Hellos, ${name}!`;
 }
 
 const userName = "Sandeep";
